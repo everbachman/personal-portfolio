@@ -7,12 +7,12 @@ This project is a completely from scratch neural network generator that I wrote 
 ## Edge Weighted Graph - school project: 
 I wrote this project for my Introduction to Computer Systems (CMSC216) class. It is intended to demonstrate use of manual memory management and dynamic data structures in C. The goal was to implement a fully functional Edge-Weighted Directed Graph from scratch, avoiding external libraries or high-level abstractions.
 
-**NOTE:** I am NOT permitted to share this code with the general public as it would allow future students to plagiarize.
+**NOTE:** I am NOT permitted to share this code with the general public as it would allow future students to plagiarize. Code available upon request.
 
 ## MAEC - school project: 
 I wrote this project for my Introduction to Computer Systems (CMSC216) class. The task was to implement a functional build automation engine, similar to a simplified version of make, entirely from scratch. The program reads files, known as maecfiles, and executes the instructions as long as the files are valid implementation of the MAECfile system. 
 
-**NOTE:** I am NOT permitted to share this code with the general public as it would allow future students to plagiarize.
+**NOTE:** I am NOT permitted to share this code with the general public as it would allow future students to plagiarize. Code available upon request.
 
 ## Resume:
 I also included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
