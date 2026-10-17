@@ -14,5 +14,10 @@ I wrote this project for my Introduction to Computer Systems (CMSC216) class. Th
 
 **NOTE:** I am NOT permitted to share this code with the general public as it would allow future students to plagiarize. Code available upon request.
 
+## Escape Room Project: 
+An interactive fiction game written in python for a creative coding class. The game is an escape room style adventure from the perspective of a cat attempting to find a way out of the house it is trapped in.
+- EBfnl: defines the game areas and initial game loop
+- EvelynBachmanCatEscapeRoom: defines interactive features, stores interactions and progress, and main game logic and loop
+
 ## Resume:
 I also included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
