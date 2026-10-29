@@ -20,7 +20,7 @@ An interactive fiction game written in python for a creative coding class. The g
 - EvelynBachmanCatEscapeRoom: defines interactive features, stores interactions and progress, and main game logic and loop
 
 ## Resume:
-I included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
+I included a current copy of my resume that has information on classes I have taken and languages I have experience with as well as my past work experience.
 
 ## Artwork portfolio:
 I have also attached a pdf containing a selection of paintings. 
