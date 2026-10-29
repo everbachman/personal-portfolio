@@ -1,4 +1,4 @@
-# Evelyn Bachman Portfolio Codeworks+ 2026
+# Evelyn Bachman Portfolio
 Attached are some examples of code in Java and C that I have written for school projects as well as on my own. NO AI was used in the writing of any of my code (it was however used to assist in the README file creation)
 
 ## Neural Network - Bitcamp 2025: 
@@ -20,4 +20,7 @@ An interactive fiction game written in python for a creative coding class. The g
 - EvelynBachmanCatEscapeRoom: defines interactive features, stores interactions and progress, and main game logic and loop
 
 ## Resume:
-I also included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
+I included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
+
+## Artwork portfolio:
+I have also attached is a pdf containing a selection of paintings
