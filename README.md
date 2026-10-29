@@ -23,4 +23,4 @@ An interactive fiction game written in python for a creative coding class. The g
 I included a current copy of my resume that has information on other classes I have taken and laguages I have experince with
 
 ## Artwork portfolio:
-I have also attached is a pdf containing a selection of paintings
+I have also attached a pdf containing a selection of paintings. 
